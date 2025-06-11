@@ -3,6 +3,7 @@ This project provides a comprehensive analysis of customer order data for an e-c
 
 
 ✅**Objectives**:
+
 Analyze order trends and sales distribution by month, gender, channel, and state.
 
 Segment customer data by age group and gender to understand consumer behavior.
@@ -12,6 +13,7 @@ Evaluate the performance of sales channels and identify top-performing states.
 Monitor order fulfillment statuses (Delivered, Cancelled, Refunded).
 
 📈**Key Insights Generated**:
+
 Orders vs Sales (Monthly) – Tracked monthly order volume and total sales for the year 2022.
 
 Gender-wise Spending – Women contributed a significantly higher share to total revenue compared to men.
@@ -26,6 +28,7 @@ Channel Performance – Amazon led in order share (~35%), followed by Flipkart a
 
 
 📊**Tools & Features Used**:
+
 Excel functions: Pivot Tables, VLOOKUP, IF statements.
 
 Charts: Bar charts, Pie charts for visualizing gender split, age groups, order status, and monthly trends.
